@@ -14,12 +14,12 @@
 
 ## Part 4: NVIDIA RAPIDS vs CPU
 - Notebook: [rapids_gpu_vs_cpu.ipynb](Copy_of_final_nvidia_rapids_zero_to_hero.ipynb)
-- Video: [VIDEO_LINK_4](https://www.youtube.com/channel/UCyNxUIHQaU9kU5VVhaHvhnA)
+- Video: [VIDEO_LINK_4](https://youtu.be/fr70tvNNMgQ)
 
 ## Part 5: PyCaret – Landscape of Capabilities
 - Notebook: [pycaret_capabilities.ipynb](Copy_of_final_pycaret_capabilities_tour_%281%29.ipynb)
-- Video: [VIDEO_LINK_5](https://www.youtube.com/channel/UCyNxUIHQaU9kU5VVhaHvhnA)
+- Video: [VIDEO_LINK_5](https://youtu.be/1hsuEVVXAi4)
 
 ## Part 6: PyCaret – MLOps
 - Notebook: [pycaret_mlops.ipynb](Copy_of_final_pycaret_zero_to_hero.ipynb)
-- Video: [VIDEO_LINK_6](https://www.youtube.com/channel/UCyNxUIHQaU9kU5VVhaHvhnA)
+- Video: [VIDEO_LINK_6](https://youtu.be/ySG7cOED4GA)
